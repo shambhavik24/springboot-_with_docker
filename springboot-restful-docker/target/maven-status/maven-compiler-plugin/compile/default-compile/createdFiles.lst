@@ -1,0 +1,6 @@
+com\example\springbootrestfuldocker\service\impl\UserServiceImpl.class
+com\example\springbootrestfuldocker\repository\UserRepository.class
+com\example\springbootrestfuldocker\SpringbootRestfulDockerApplication.class
+com\example\springbootrestfuldocker\entity\User.class
+com\example\springbootrestfuldocker\service\UserService.class
+com\example\springbootrestfuldocker\controller\UserController.class
